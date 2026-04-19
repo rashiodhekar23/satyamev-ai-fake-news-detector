@@ -22,7 +22,7 @@ export default function DarkToggle() {
       onClick={toggle}
       title={dark ? 'Light Mode' : 'Dark Mode'}
       style={{
-        position: 'fixed', bottom: '24px', right: '20px', zIndex: 9999,
+        position: 'fixed', bottom: '8px', right: '20px', zIndex: 9999,
         width: '48px', height: '48px',
         background: dark
           ? 'linear-gradient(135deg, #FFD700, #FFA500)'
