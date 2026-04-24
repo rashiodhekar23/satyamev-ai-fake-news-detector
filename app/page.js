@@ -171,7 +171,7 @@ export default function Home() {
             letterSpacing: '8px',
             opacity: 0.9
           }}>
-            DETECTION PLATFORM
+            
           </span>
         </h1>
 
